@@ -22,16 +22,16 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/AlbaDev1" target="_blank">
+<a href="https://www.github.com/AlbaDev1" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/AlbaDev2" target="_blank">
+<a href="https://www.twitter.com/AlbaDev2" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.youtube.com/@AlbaDev" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
-<a href="discord.com/users/504315887541551104" target="_blank">
+<a href="https://www.discord.com/users/504315887541551104" target="_blank">
 <img src=https://img.shields.io/badge/discord-%235765F2.svg?&style=for-the-badge&logo=discord&logoColor=white alt=discord style="margin-bottom: 5px;" />
 </a>
 </div>  
