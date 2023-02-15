@@ -15,7 +15,7 @@
 - ❓ Vous avez un projet ? Venez me voir en dm discord !  
   
 
-- ⚡ J'ai actuellement 15 repositeries, 4 publics, 11 privés.  
+- ⚡ J'ai actuellement 25 repositeries, 4 publics, 21 privés.  
   
 
 <br/>  
