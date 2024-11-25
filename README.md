@@ -1,32 +1,22 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://raw.githubusercontent.com/AlbaDev1/AlbaDev1/refs/heads/main/Arcane.gif" style="border-radius: 30px;" alt="Arcane Isha" />
 </div>  
   
 
-### <div align="center">Je suis AlbaDev, un développeur👨‍💻 depuis 2019 🚀</div>  
+## Salut les internets, moi c'est AlbaDev !
   
 
-- 🔭 Je fais des bots : [Lebayk Bot](https://github.com/AlbaDev1/Lebayk-Bot)  
+- 🔭  Je travaille actuellement sur [La Date Du Jour](https://github.com/RaphTHLN/LaDateDuJour)
   
 
-- 🌱 Je fais des sites !  
+- 💻  Je suis développeur 
   
 
-- ❓ Vous avez un projet ? Venez me voir en dm discord !  
-  
-
-- ⚡ J'ai actuellement 25 repositeries, 4 publics, 21 privés.  
-  
-
+- 💡  [Mon Bento](https://bento.me/AlbaDev)
 <br/>  
-
-## Connect with me  
-<div align="center">
-<a href="https://www.github.com/AlbaDev1" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.twitter.com/AlbaDev2" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+<div>
+<a href="https://www.x.com/AlbaDev2" target="_blank">
+<img src=https://img.shields.io/badge/X%20(Twitter)-%23000000.svg?&style=for-the-badge&logo=x&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.youtube.com/@AlbaDev" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
@@ -34,36 +24,23 @@
 <a href="https://www.discord.com/users/504315887541551104" target="_blank">
 <img src=https://img.shields.io/badge/discord-%235765F2.svg?&style=for-the-badge&logo=discord&logoColor=white alt=discord style="margin-bottom: 5px;" />
 </a>
-</div>  
-  
-
+</div> 
 <br/>  
-
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=AlbaDev1&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<img src="https://github-readme-stats.vercel.app/api?username=AlbaDev1&show_icons=true&count_private=true&hide_border=true&theme=dark" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AlbaDev1&theme=dark&hide_border=true">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlbaDev1&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact">
 
 <br/>  
 
   
 
 <br/>  
-
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=AlbaDev1&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-<div align="center">
-            <a href="https://paypal.me/AlbaDevPaypal" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" 
-                    align="center"
-                />
-            </a></div>
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=AlbaDev&label=Profile%20Views&color=12&icon=5&pretty=false" />
+</a>
+</div>
