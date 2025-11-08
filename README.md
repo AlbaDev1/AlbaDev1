@@ -35,12 +35,3 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlbaDev1&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact">
 
 <br/>  
-
-  
-
-<br/>  
-<div align="center">
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=AlbaDev&label=Profile%20Views&color=12&icon=5&pretty=false" />
-</a>
-</div>
