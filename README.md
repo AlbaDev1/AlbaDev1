@@ -6,13 +6,13 @@
 ## Salut les internets, moi c'est AlbaDev !
   
 
-- 🔭  Je travaille actuellement sur [La Date Du Jour](https://github.com/RaphTHLN/LaDateDuJour)
+- Dernier projet : [La Date Du Jour](https://github.com/RaphTHLN/LaDateDuJour)
   
 
-- 💻  Je suis développeur 
+- Je suis développeur 
   
 
-- 💡  [Mon Bento](https://bento.me/AlbaDev)
+- [Mon Bento](https://bento.me/AlbaDev)
 <br/>  
 <div>
 <a href="https://www.x.com/AlbaDev2" target="_blank">
