@@ -1,5 +1,6 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/AlbaDev1/AlbaDev1/refs/heads/main/Arcane.gif" style="border-radius: 30px;" alt="Arcane Isha" />
+<img src="https://raw.githubusercontent.com/AlbaDev1/AlbaDev1/refs/heads/main/Banner.png" style="border-radius: 30px; width: 700px;" alt="AlbaDev's Github Banner" />
+<img src="https://raw.githubusercontent.com/AlbaDev1/AlbaDev1/refs/heads/main/Arcane.gif" style="border-radius: 30px; width: 700px;" alt="Arcane Isha" />
 </div>  
   
 
